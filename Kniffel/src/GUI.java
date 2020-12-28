@@ -11,7 +11,7 @@ public class GUI {
 	public ArrayList<String> spieler = new ArrayList<String>();
 	
 	public GUI() {
-		Start();
+		Start(); //test
 	}
 	
 	public void Start() {
